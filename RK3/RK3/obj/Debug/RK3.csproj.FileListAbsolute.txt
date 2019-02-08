@@ -1,0 +1,14 @@
+Y:\DataBases\RK3\RK3\obj\Debug\RK3.csprojAssemblyReference.cache
+Y:\DataBases\RK3\RK3\obj\Debug\RK3.csproj.CoreCompileInputs.cache
+Y:\DataBases\RK3\RK3\bin\Debug\RK3.exe.config
+Y:\DataBases\RK3\RK3\bin\Debug\RK3.exe
+Y:\DataBases\RK3\RK3\bin\Debug\RK3.pdb
+Y:\DataBases\RK3\RK3\obj\Debug\RK3.exe
+Y:\DataBases\RK3\RK3\obj\Debug\RK3.pdb
+\\Mac\Home\Desktop\RK3\RK3\obj\Debug\RK3.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\RK3\RK3\obj\Debug\RK3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\RK3\RK3\obj\Debug\RK3.exe
+\\Mac\Home\Desktop\RK3\RK3\obj\Debug\RK3.pdb
+\\Mac\Home\Desktop\RK3\RK3\bin\Debug\RK3.exe.config
+\\Mac\Home\Desktop\RK3\RK3\bin\Debug\RK3.exe
+\\Mac\Home\Desktop\RK3\RK3\bin\Debug\RK3.pdb

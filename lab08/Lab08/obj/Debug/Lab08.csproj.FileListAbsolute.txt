@@ -1,0 +1,14 @@
+Y:\DataBases\Lab08\Lab08\obj\Debug\Lab08.csprojAssemblyReference.cache
+Y:\DataBases\Lab08\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
+Y:\DataBases\Lab08\Lab08\bin\Debug\Lab08.exe.config
+Y:\DataBases\Lab08\Lab08\bin\Debug\Lab08.exe
+Y:\DataBases\Lab08\Lab08\bin\Debug\Lab08.pdb
+Y:\DataBases\Lab08\Lab08\obj\Debug\Lab08.exe
+Y:\DataBases\Lab08\Lab08\obj\Debug\Lab08.pdb
+\\Mac\Home\Desktop\DataBase\lab08\Lab08\obj\Debug\Lab08.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\DataBase\lab08\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\DataBase\lab08\Lab08\obj\Debug\Lab08.exe
+\\Mac\Home\Desktop\DataBase\lab08\Lab08\obj\Debug\Lab08.pdb
+\\Mac\Home\Desktop\DataBase\lab08\Lab08\bin\Debug\Lab08.exe.config
+\\Mac\Home\Desktop\DataBase\lab08\Lab08\bin\Debug\Lab08.exe
+\\Mac\Home\Desktop\DataBase\lab08\Lab08\bin\Debug\Lab08.pdb
