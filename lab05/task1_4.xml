@@ -1,0 +1,30 @@
+﻿<MercedesBenz>
+  <CarId>11</CarId>
+  <DealerId>66</DealerId>
+  <FactoryId>24</FactoryId>
+  <DeliveryDate>2019-09-27</DeliveryDate>
+</MercedesBenz>
+<MercedesBenz>
+  <CarId>49</CarId>
+  <DealerId>3</DealerId>
+  <FactoryId>88</FactoryId>
+  <DeliveryDate>2014-07-06</DeliveryDate>
+</MercedesBenz>
+<MercedesBenz>
+  <CarId>11</CarId>
+  <DealerId>12</DealerId>
+  <FactoryId>57</FactoryId>
+  <DeliveryDate>2016-09-09</DeliveryDate>
+</MercedesBenz>
+<MercedesBenz>
+  <CarId>13</CarId>
+  <DealerId>91</DealerId>
+  <FactoryId>83</FactoryId>
+  <DeliveryDate>2015-03-13</DeliveryDate>
+</MercedesBenz>
+<MercedesBenz>
+  <CarId>98</CarId>
+  <DealerId>65</DealerId>
+  <FactoryId>5</FactoryId>
+  <DeliveryDate>2011-02-17</DeliveryDate>
+</MercedesBenz>

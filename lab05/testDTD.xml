@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Dealer SYSTEM "testDTD.dtd">
+<Dealers>
+    <Dealer>
+        <City>Tula</City>
+        <DealerName>Izmaylovo</DealerName>
+        <CarAmount>58</CarAmount>
+    </Dealer>
+    <Dealer>
+        <City>Saint-Petersburg</City>
+        <DealerName>AMG</DealerName>
+        <CarAmount>100</CarAmount>
+    </Dealer>
+    <Dealer>
+        <City>Tolyatti</City>
+        <DealerName>AMG</DealerName>
+        <CarAmount>22</CarAmount>
+    </Dealer>
+    <Dealer>
+        <City>Kazan</City>
+        <DealerName>Rus</DealerName>
+        <CarAmount>6</CarAmount>
+    </Dealer>
+    <Dealer>
+        <City>Tyumen</City>
+        <DealerName>Izmaylovo</DealerName>
+        <CarAmount>59</CarAmount>
+    </Dealer>
+</Dealers>

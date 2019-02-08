@@ -1,0 +1,7 @@
+<!DOCTYPE Cars [
+<!ELEMENT Car (CarModel, DateOfIssue, HorsePower, IsTransmission)>
+<!ELEMENT CarModel (#PCDATA)>
+<!ELEMENT DateOfIssue (#PCDATA)>
+<!ELEMENT HorsePower (#PCDATA)>
+<!ELEMENT IsTransmission (#PCDATA)>
+]>

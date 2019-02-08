@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="http://tempuri.org/MercedesBenz" elementFormDefault="qualified" targetNamespace="http://tempuri.org/MercedesBenz" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Car">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="CarModel" />
+        <xs:element ref="DateOfIssue" />
+        <xs:element ref="HorsePower" />
+        <xs:element ref="IsTransmission" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CarModel" type="xs:string" />
+  <xs:element name="DateOfIssue" type="xs:string" />
+  <xs:element name="HorsePower" type="xs:string" />
+  <xs:element name="IsTransmission" type="xs:string" />
+</xs:schema>

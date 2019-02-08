@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Cars[
+<!ELEMENT Dealer (City, DealerName, CarAmount)>
+<!ATTLIST Dealer Id ID #REQUIRED>
+<!ELEMENT City (#PCDATA)>
+<!ELEMENT DealerName (#PCDATA)>
+<!ELEMENT CarAmount (#PCDATA)>
+]>
+<Cars>
+  <Dealer Id="1">
+    <City>Tula</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>58</CarAmount>
+  </Dealer>
+  <Dealer Id="2">
+    <City>Saint-Petersburg</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>10</CarAmount>
+  </Dealer>
+  <Dealer Id="3">
+    <City>Tolyatti</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>22</CarAmount>
+  </Dealer>
+  <Dealer Id="4">
+    <City>Kazan</City>
+    <DealerName>Rus</DealerName>
+    <CarAmount>1</CarAmount>
+  </Dealer>
+  <Dealer Id="5">
+    <City>Tyumen</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>59</CarAmount>
+  </Dealer>
+  <Dealer Id="6">
+    <City>Perm</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>4</CarAmount>
+  </Dealer>
+  <Dealer Id="7">
+    <City>Rostov</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>11</CarAmount>
+  </Dealer>
+  <Dealer Id="8">
+    <City>Rostov</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>29</CarAmount>
+  </Dealer>
+  <Dealer Id="9">
+    <City>Lipetsk</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>28</CarAmount>
+  </Dealer>
+  <Dealer Id="10">
+    <City>Nizhny Novgorod</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>30</CarAmount>
+  </Dealer>
+  <Dealer Id="11">
+    <City>Tver</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>54</CarAmount>
+  </Dealer>
+  <Dealer Id="12">
+    <City>Sochi</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>21</CarAmount>
+  </Dealer>
+  <Dealer Id="13">
+    <City>Nizhny Novgorod</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>94</CarAmount>
+  </Dealer>
+  <Dealer Id="14">
+    <City>Kirov</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>30</CarAmount>
+  </Dealer>
+  <Dealer Id="15">
+    <City>Nizhny Novgorod</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>21</CarAmount>
+  </Dealer>
+  <Dealer Id="16">
+    <City>Chelyabinsk</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>32</CarAmount>
+  </Dealer>
+  <Dealer Id="17">
+    <City>Tver</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>97</CarAmount>
+  </Dealer>
+  <Dealer Id="18">
+    <City>Tver</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>78</CarAmount>
+  </Dealer>
+  <Dealer Id="19">
+    <City>Saint-Petersburg</City>
+    <DealerName>Rus</DealerName>
+    <CarAmount>48</CarAmount>
+  </Dealer>
+  <Dealer Id="20">
+    <City>Irkutsk</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>46</CarAmount>
+  </Dealer>
+  <Dealer Id="21">
+    <City>Tula</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>100</CarAmount>
+  </Dealer>
+  <Dealer Id="22">
+    <City>Perm</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>100</CarAmount>
+  </Dealer>
+  <Dealer Id="23">
+    <City>Nizhny Novgorod</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>37</CarAmount>
+  </Dealer>
+  <Dealer Id="24">
+    <City>Tver</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>17</CarAmount>
+  </Dealer>
+  <Dealer Id="25">
+    <City>Tolyatti</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>57</CarAmount>
+  </Dealer>
+  <Dealer Id="26">
+    <City>Rostov</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>30</CarAmount>
+  </Dealer>
+  <Dealer Id="27">
+    <City>Kirov</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>65</CarAmount>
+  </Dealer>
+  <Dealer Id="28">
+    <City>Saint-Petersburg</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>32</CarAmount>
+  </Dealer>
+  <Dealer Id="29">
+    <City>Kirov</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>94</CarAmount>
+  </Dealer>
+  <Dealer Id="30">
+    <City>Tula</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>12</CarAmount>
+  </Dealer>
+  <Dealer Id="31">
+    <City>Kirov</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>88</CarAmount>
+  </Dealer>
+  <Dealer Id="32">
+    <City>Rostov</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>20</CarAmount>
+  </Dealer>
+  <Dealer Id="33">
+    <City>Saint-Petersburg</City>
+    <DealerName>Rus</DealerName>
+    <CarAmount>93</CarAmount>
+  </Dealer>
+  <Dealer Id="34">
+    <City>Sochi</City>
+    <DealerName>Rus</DealerName>
+    <CarAmount>80</CarAmount>
+  </Dealer>
+  <Dealer Id="35">
+    <City>Perm</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>18</CarAmount>
+  </Dealer>
+  <Dealer Id="36">
+    <City>Lipetsk</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>60</CarAmount>
+  </Dealer>
+  <Dealer Id="37">
+    <City>Tver</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>36</CarAmount>
+  </Dealer>
+  <Dealer Id="38">
+    <City>Kazan</City>
+    <DealerName>Rus</DealerName>
+    <CarAmount>84</CarAmount>
+  </Dealer>
+  <Dealer Id="39">
+    <City>Kazan</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>19</CarAmount>
+  </Dealer>
+  <Dealer Id="40">
+    <City>Ufa</City>
+    <DealerName>Rus</DealerName>
+    <CarAmount>6</CarAmount>
+  </Dealer>
+  <Dealer Id="41">
+    <City>Irkutsk</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>93</CarAmount>
+  </Dealer>
+  <Dealer Id="42">
+    <City>Rostov</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>37</CarAmount>
+  </Dealer>
+  <Dealer Id="43">
+    <City>Perm</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>36</CarAmount>
+  </Dealer>
+  <Dealer Id="44">
+    <City>Nizhny Novgorod</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>4</CarAmount>
+  </Dealer>
+  <Dealer Id="45">
+    <City>Tula</City>
+    <DealerName>Rus</DealerName>
+    <CarAmount>6</CarAmount>
+  </Dealer>
+  <Dealer Id="46">
+    <City>Nizhny Novgorod</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>12</CarAmount>
+  </Dealer>
+  <Dealer Id="47">
+    <City>Tyumen</City>
+    <DealerName>Rus</DealerName>
+    <CarAmount>86</CarAmount>
+  </Dealer>
+  <Dealer Id="48">
+    <City>Tyumen</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>4</CarAmount>
+  </Dealer>
+  <Dealer Id="49">
+    <City>Lipetsk</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>39</CarAmount>
+  </Dealer>
+  <Dealer Id="50">
+    <City>Sochi</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>16</CarAmount>
+  </Dealer>
+  <Dealer Id="51">
+    <City>Ufa</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>44</CarAmount>
+  </Dealer>
+  <Dealer Id="52">
+    <City>Lipetsk</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>34</CarAmount>
+  </Dealer>
+  <Dealer Id="53">
+    <City>Samara</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>7</CarAmount>
+  </Dealer>
+  <Dealer Id="54">
+    <City>Kazan</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>95</CarAmount>
+  </Dealer>
+  <Dealer Id="55">
+    <City>Irkutsk</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>82</CarAmount>
+  </Dealer>
+  <Dealer Id="56">
+    <City>Chelyabinsk</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>62</CarAmount>
+  </Dealer>
+  <Dealer Id="57">
+    <City>Samara</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>42</CarAmount>
+  </Dealer>
+  <Dealer Id="58">
+    <City>Perm</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>17</CarAmount>
+  </Dealer>
+  <Dealer Id="59">
+    <City>Moscow</City>
+    <DealerName>Rus</DealerName>
+    <CarAmount>3333</CarAmount>
+  </Dealer>
+  <Dealer Id="60">
+    <City>Tula</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>21</CarAmount>
+  </Dealer>
+  <Dealer Id="61">
+    <City>Saint-Petersburg</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>80</CarAmount>
+  </Dealer>
+  <Dealer Id="62">
+    <City>Ufa</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>89</CarAmount>
+  </Dealer>
+  <Dealer Id="63">
+    <City>Tyumen</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>46</CarAmount>
+  </Dealer>
+  <Dealer Id="64">
+    <City>Saint-Petersburg</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>83</CarAmount>
+  </Dealer>
+  <Dealer Id="65">
+    <City>Chelyabinsk</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>93</CarAmount>
+  </Dealer>
+  <Dealer Id="66">
+    <City>Chelyabinsk</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>64</CarAmount>
+  </Dealer>
+  <Dealer Id="67">
+    <City>Nizhny Novgorod</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>80</CarAmount>
+  </Dealer>
+  <Dealer Id="68">
+    <City>Tula</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>50</CarAmount>
+  </Dealer>
+  <Dealer Id="69">
+    <City>Rostov</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>5</CarAmount>
+  </Dealer>
+  <Dealer Id="70">
+    <City>Kazan</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>46</CarAmount>
+  </Dealer>
+  <Dealer Id="71">
+    <City>Saint-Petersburg</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>19</CarAmount>
+  </Dealer>
+  <Dealer Id="72">
+    <City>Tver</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>47</CarAmount>
+  </Dealer>
+  <Dealer Id="73">
+    <City>Tver</City>
+    <DealerName>Rus</DealerName>
+    <CarAmount>82</CarAmount>
+  </Dealer>
+  <Dealer Id="74">
+    <City>Ufa</City>
+    <DealerName>Rus</DealerName>
+    <CarAmount>28</CarAmount>
+  </Dealer>
+  <Dealer Id="75">
+    <City>Tolyatti</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>85</CarAmount>
+  </Dealer>
+  <Dealer Id="76">
+    <City>Voronezh</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>55</CarAmount>
+  </Dealer>
+  <Dealer Id="77">
+    <City>Moscow</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>3333</CarAmount>
+  </Dealer>
+  <Dealer Id="78">
+    <City>Rostov</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>90</CarAmount>
+  </Dealer>
+  <Dealer Id="79">
+    <City>Moscow</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>3333</CarAmount>
+  </Dealer>
+  <Dealer Id="80">
+    <City>Chelyabinsk</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>59</CarAmount>
+  </Dealer>
+  <Dealer Id="81">
+    <City>Chelyabinsk</City>
+    <DealerName>Rus</DealerName>
+    <CarAmount>17</CarAmount>
+  </Dealer>
+  <Dealer Id="82">
+    <City>Tula</City>
+    <DealerName>Rus</DealerName>
+    <CarAmount>59</CarAmount>
+  </Dealer>
+  <Dealer Id="83">
+    <City>Irkutsk</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>45</CarAmount>
+  </Dealer>
+  <Dealer Id="84">
+    <City>Voronezh</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>24</CarAmount>
+  </Dealer>
+  <Dealer Id="85">
+    <City>Samara</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>96</CarAmount>
+  </Dealer>
+  <Dealer Id="86">
+    <City>Lipetsk</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>84</CarAmount>
+  </Dealer>
+  <Dealer Id="87">
+    <City>Ufa</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>27</CarAmount>
+  </Dealer>
+  <Dealer Id="88">
+    <City>Tver</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>5</CarAmount>
+  </Dealer>
+  <Dealer Id="89">
+    <City>Tver</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>23</CarAmount>
+  </Dealer>
+  <Dealer Id="90">
+    <City>Tyumen</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>14</CarAmount>
+  </Dealer>
+  <Dealer Id="91">
+    <City>Ufa</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>96</CarAmount>
+  </Dealer>
+  <Dealer Id="92">
+    <City>Tula</City>
+    <DealerName>Rus</DealerName>
+    <CarAmount>44</CarAmount>
+  </Dealer>
+  <Dealer Id="93">
+    <City>Sochi</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>8</CarAmount>
+  </Dealer>
+  <Dealer Id="94">
+    <City>Irkutsk</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>97</CarAmount>
+  </Dealer>
+  <Dealer Id="95">
+    <City>Kirov</City>
+    <DealerName>Rus</DealerName>
+    <CarAmount>9</CarAmount>
+  </Dealer>
+  <Dealer Id="96">
+    <City>Ufa</City>
+    <DealerName>Rus</DealerName>
+    <CarAmount>37</CarAmount>
+  </Dealer>
+  <Dealer Id="97">
+    <City>Rostov</City>
+    <DealerName>Izmaylovo</DealerName>
+    <CarAmount>80</CarAmount>
+  </Dealer>
+  <Dealer Id="98">
+    <City>Irkutsk</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>12</CarAmount>
+  </Dealer>
+  <Dealer Id="99">
+    <City>Tver</City>
+    <DealerName>Avilon</DealerName>
+    <CarAmount>33</CarAmount>
+  </Dealer>
+  <Dealer Id="100">
+    <City>Sochi</City>
+    <DealerName>AMG</DealerName>
+    <CarAmount>17</CarAmount>
+  </Dealer>
+  <Dealer Id="101">
+    <City>Moscow</City>
+    <DealerName>AVILON</DealerName>
+    <CarAmount>3333</CarAmount>
+  </Dealer>
+</Cars>

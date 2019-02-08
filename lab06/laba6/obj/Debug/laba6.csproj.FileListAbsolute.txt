@@ -1,0 +1,14 @@
+E:\Witcher\laba6\laba6\obj\Debug\laba6.csprojAssemblyReference.cache
+E:\Witcher\laba6\laba6\obj\Debug\laba6.csproj.CoreCompileInputs.cache
+E:\Witcher\laba6\laba6\bin\Debug\laba6.exe.config
+E:\Witcher\laba6\laba6\bin\Debug\laba6.exe
+E:\Witcher\laba6\laba6\bin\Debug\laba6.pdb
+E:\Witcher\laba6\laba6\obj\Debug\laba6.exe
+E:\Witcher\laba6\laba6\obj\Debug\laba6.pdb
+\\Mac\Home\Desktop\DataBase\lab06\laba6\bin\Debug\laba6.exe.config
+\\Mac\Home\Desktop\DataBase\lab06\laba6\bin\Debug\laba6.exe
+\\Mac\Home\Desktop\DataBase\lab06\laba6\bin\Debug\laba6.pdb
+\\Mac\Home\Desktop\DataBase\lab06\laba6\obj\Debug\laba6.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\DataBase\lab06\laba6\obj\Debug\laba6.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\DataBase\lab06\laba6\obj\Debug\laba6.exe
+\\Mac\Home\Desktop\DataBase\lab06\laba6\obj\Debug\laba6.pdb

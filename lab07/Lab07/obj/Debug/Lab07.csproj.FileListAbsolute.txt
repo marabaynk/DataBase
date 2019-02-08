@@ -1,0 +1,14 @@
+Y:\DataBases\Lab07\Lab07\bin\Debug\Lab07.exe.config
+Y:\DataBases\Lab07\Lab07\bin\Debug\Lab07.exe
+Y:\DataBases\Lab07\Lab07\bin\Debug\Lab07.pdb
+Y:\DataBases\Lab07\Lab07\obj\Debug\Lab07.csprojAssemblyReference.cache
+Y:\DataBases\Lab07\Lab07\obj\Debug\Lab07.csproj.CoreCompileInputs.cache
+Y:\DataBases\Lab07\Lab07\obj\Debug\Lab07.exe
+Y:\DataBases\Lab07\Lab07\obj\Debug\Lab07.pdb
+\\Mac\Home\Desktop\DataBase\lab07\Lab07\bin\Debug\Lab07.exe.config
+\\Mac\Home\Desktop\DataBase\lab07\Lab07\bin\Debug\Lab07.exe
+\\Mac\Home\Desktop\DataBase\lab07\Lab07\bin\Debug\Lab07.pdb
+\\Mac\Home\Desktop\DataBase\lab07\Lab07\obj\Debug\Lab07.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\DataBase\lab07\Lab07\obj\Debug\Lab07.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\DataBase\lab07\Lab07\obj\Debug\Lab07.exe
+\\Mac\Home\Desktop\DataBase\lab07\Lab07\obj\Debug\Lab07.pdb

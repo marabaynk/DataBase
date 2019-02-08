@@ -1,0 +1,30 @@
+﻿<Car>
+  <CarModel>A-Classe</CarModel>
+  <DateOfIssue>2012-04-11</DateOfIssue>
+  <HorsePower>314</HorsePower>
+  <IsTransmission>1</IsTransmission>
+</Car>
+<Car>
+  <CarModel>S-Classe</CarModel>
+  <DateOfIssue>2018-09-09</DateOfIssue>
+  <HorsePower>444</HorsePower>
+  <IsTransmission>1</IsTransmission>
+</Car>
+<Car>
+  <CarModel>GLS-Classe</CarModel>
+  <DateOfIssue>2011-02-03</DateOfIssue>
+  <HorsePower>689</HorsePower>
+  <IsTransmission>1</IsTransmission>
+</Car>
+<Car>
+  <CarModel>C-Classe</CarModel>
+  <DateOfIssue>2010-09-10</DateOfIssue>
+  <HorsePower>155</HorsePower>
+  <IsTransmission>1</IsTransmission>
+</Car>
+<Car>
+  <CarModel>V-Classe</CarModel>
+  <DateOfIssue>2019-12-27</DateOfIssue>
+  <HorsePower>670</HorsePower>
+  <IsTransmission>1</IsTransmission>
+</Car>
